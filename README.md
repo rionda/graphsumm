@@ -9,7 +9,7 @@ Mining 2014 (ICDM'14) (PDF)[http://francescobonchi.com/icdm14CR.pdf].
 ## License
 
 Everything in this repository is distributed under the Apache License, version
-2.0. See the [LICENSE](LICENSE) file.
+2.0. See the [LICENSE](LICENSE) file and the [NOTICE](NOTICE) file.
 
 ## Contacts
 

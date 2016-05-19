@@ -18,7 +18,7 @@ Everything in this repository is distributed under the Apache License, version
 ## Contacts
 
 For any question or to point out bugs, please contact Matteo Riondato
-<rionda@cs.stanford.edu>.
+<riondato@acm.org>.
 
 ## Compilation
 

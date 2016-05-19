@@ -3,8 +3,12 @@
 This repository contains the code for the algorithms presented in
 
 Matteo Riondato, David García-Soriano, Francesco Bonchi, "Graph Summarization
-with Quality Guarantees", Proceedings of IEEE International Conference on Data
-Mining 2014 (ICDM'14) [PDF](http://francescobonchi.com/icdm14CR.pdf).
+with Quality Guarantees", Data Mining and Knowledge Discovery (to appear), [PDF](http://matteo.rionda.to/papers/RiondatoEtAl-GraphSummarization-DMKD.pdf)
+
+(Conference version: Matteo Riondato, David García-Soriano, Francesco Bonchi, 
+"Graph Summarization with Quality Guarantees", Proceedings of IEEE 
+International Conference on Data Mining 2014 (ICDM'14), 
+[PDF](http://francescobonchi.com/icdm14CR.pdf))
 
 ## License
 

@@ -7,6 +7,8 @@
 #include <map>
 #include <unordered_map>
 #include <vector>
+#include <random>
+#include <numeric>
 
 #include "fenwick.h"
 using namespace std;

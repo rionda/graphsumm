@@ -9,7 +9,7 @@ endif
 GDB=-ggdb3
 LIBS=-lm -lsdpa -llapack -lblas -lgfortran -lquadmath -lpthread -ldmumps_seq
 STATIC=-static-libgcc -static-libstdc++
-WARNS=-Wextra -Wall -Wno-sign-compare -Wshadow -Wstrict-aliasing=1 -pedantic-errors
+WARNS=-Wextra -Wall -Wno-sign-compare -Wshadow -Wstrict-aliasing=1 -Werror -Wno-unused-result -pedantic-errors
 
 CFLAGS=-ansi -std=c++11 -fabi-version=6 $(WARNS) $(OPT) $(STATIC) $(LIBS) $(GDB) $(DEBUG) $(PROFILE)
 
